@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SimonN93
+- 👋 Hi, I’m @Simon
 - 👀 I’m interested in playing the guitar and the piano as well as programming 
 - 🌱 I’m currently learning audio programming
 
